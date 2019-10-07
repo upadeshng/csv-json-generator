@@ -11,4 +11,4 @@ A simple script for Converting CSV to JSON.
 
 1. Clone the project to the server
 
-2. Start using base url
+2. Start using base url with default controller/action as site/index
