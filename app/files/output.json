@@ -1,0 +1,166 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Smith",
+        "email": "john.smith@gmail.com",
+        "platforms": [
+            "web"
+        ],
+        "password": "password1",
+        "job_title": "Developer",
+        "department": "Engineering",
+        "levels": "1"
+    },
+    {
+        "first_name": "",
+        "last_name": "",
+        "email": "nouser@gmail.com",
+        "platforms": [
+            "web",
+            "ios"
+        ],
+        "password": "password",
+        "job_title": "",
+        "department": "",
+        "levels": ""
+    },
+    {
+        "first_name": "Adams",
+        "last_name": "Zafar",
+        "email": "adams.zafar@gmail.com",
+        "platforms": [
+            "web"
+        ],
+        "password": "password2",
+        "job_title": "QA",
+        "department": "",
+        "levels": "3"
+    },
+    {
+        "first_name": "Baker",
+        "last_name": "Yakub",
+        "email": "baker.yakub@gmail.com",
+        "platforms": [
+            "web",
+            "ios"
+        ],
+        "password": "Password3",
+        "job_title": "Manager",
+        "department": "Management",
+        "levels": "6"
+    },
+    {
+        "first_name": "Ron",
+        "last_name": "Jones",
+        "email": "ronjonesatgmail.com",
+        "platforms": [
+            "web"
+        ],
+        "password": "Password3",
+        "job_title": "Manager",
+        "department": "Management",
+        "levels": "2"
+    },
+    {
+        "first_name": "Clark",
+        "last_name": "Xiang",
+        "email": "s",
+        "platforms": [
+            "android1"
+        ],
+        "password": "password4",
+        "job_title": "",
+        "department": "HR",
+        "levels": "8"
+    },
+    {
+        "first_name": "Davis",
+        "last_name": "White",
+        "email": "clark.white@gmail.com",
+        "platforms": [
+            "android"
+        ],
+        "password": "Password5",
+        "job_title": "",
+        "department": "HR",
+        "levels": "9"
+    },
+    {
+        "first_name": "Evans",
+        "last_name": "Valdo",
+        "email": "evans.valdo@gmail.com",
+        "platforms": [
+            "android"
+        ],
+        "password": "Password6",
+        "job_title": "Senior Engineer",
+        "department": "",
+        "levels": ""
+    },
+    {
+        "first_name": "Frank",
+        "last_name": "Usman",
+        "email": "frank.usman@gmail.com",
+        "platforms": [
+            "web",
+            "ios",
+            "android"
+        ],
+        "password": "Password7",
+        "job_title": "PO",
+        "department": "",
+        "levels": ""
+    },
+    {
+        "first_name": "Ghosh",
+        "last_name": "Trott",
+        "email": "ghosh.trott@gmail.com",
+        "platforms": [
+            "windows"
+        ],
+        "password": "Password8",
+        "job_title": "Scrum Master",
+        "department": "",
+        "levels": ""
+    },
+    {
+        "first_name": "Hills",
+        "last_name": "Smith",
+        "email": "hills.smith@gmail.com",
+        "platforms": [
+            "web",
+            "ios",
+            "android"
+        ],
+        "password": "Password9",
+        "job_title": "Junior Developer",
+        "department": "",
+        "levels": "7"
+    },
+    {
+        "first_name": "Irwin",
+        "last_name": "Reily",
+        "email": "irwin.reily@gmail.com",
+        "platforms": [
+            "windows",
+            "ios"
+        ],
+        "password": "Password10",
+        "job_title": "",
+        "department": "",
+        "levels": ""
+    },
+    {
+        "first_name": "Newt",
+        "last_name": "Rick",
+        "email": "newt.rick@gmail.com",
+        "platforms": [
+            "web",
+            "ios"
+        ],
+        "password": "bad",
+        "job_title": "",
+        "department": "HR",
+        "levels": "6"
+    }
+]

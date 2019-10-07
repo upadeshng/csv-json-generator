@@ -1,0 +1,18 @@
+[
+    {
+        "first_name": "",
+        "first_name_error": "First Name must be non-empty string",
+        "last_name": "",
+        "last_name_error": "Last Name must be non-empty string"
+    },
+    {
+        "email": "ronjonesatgmail.com",
+        "email_error": "Email must be in user@domain.com format"
+    },
+    {
+        "email": "s",
+        "email_error": "Email must be in user@domain.com format",
+        "platforms": "android1",
+        "platforms_error": "Platforms must be one of these ios, windows, android, web"
+    }
+]
